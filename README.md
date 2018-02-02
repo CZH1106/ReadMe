@@ -1,2 +1,2 @@
 # ReadMe
-简单的介绍例子
+Hi!这里是耳东华的Github
